@@ -2,7 +2,7 @@
 - https://github.com/LacunaOmnibus/lacuna-scripts
 
 Lemming Scripts.  These work with the GLC library from:
-https://github.com/tsee/Games-Lacuna-Client
+https://github.com/tsee/Games-Lacuna-Client and https://github.com/LacunaOmnibus/Games-Lacuna-Client
 
 Currently, I'm do a bit of reworking.  Started using perlbrew, hence the
 #!/usr/bin/env perl
